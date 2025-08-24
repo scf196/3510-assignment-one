@@ -1,5 +1,5 @@
 # 3510-assignment-one
-First assignment for PHYS 3510, due Friday, August 29th at 11:59 PM
+First assignment for PHYS 3510, due Friday, August 29th at 5:00 PM
 ## Question One
 ### "How do you expect the rigid pendulum will respond if the frequency of the drive is much higher or much lower than the natural frequency ($\omega = \sqrt{g/L}$) of the pendulum (for small oscillations) and the amplitude is small compared to the size of the pendulum?"
 ## Question Two
